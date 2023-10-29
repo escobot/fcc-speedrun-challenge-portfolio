@@ -3,8 +3,8 @@
   "username": "escobot",
   "name": "The Escobot Project",
   "userimg": "https://avatars.githubusercontent.com/u/38871090?v=4",
-  "sort": "created",
-  "order": "asc",
+  "sort": "star",
+  "order": "desc",
   "includeFork": false,
   "theme": "light.css",
   "types": [

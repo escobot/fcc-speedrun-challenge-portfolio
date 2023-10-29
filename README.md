@@ -21,5 +21,5 @@ User Story: I navigate to different sections of the webpage by clicking buttons 
 npm i gitfolio -g
 
 # Generate website
-gitfolio build escobot
+gitfolio build escobot --sort star --order desc
 ```
